@@ -1,0 +1,5 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "resplendent_sumo"}, "timestamp": 1707120015, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "bold_snowflake"}, "timestamp": 1707120255, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "wavy_song"}, "timestamp": 1707125916, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "brilliant_enchanter"}, "timestamp": 1707127929, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "api_to_gcs_copy"}, "timestamp": 1707146196, "user": null}
